@@ -1,1 +1,6 @@
 todo.txt
+model_checkpoints
+output_model
+.ipynb_checkpoints
+__pycache__
+
